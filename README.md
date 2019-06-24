@@ -1,3 +1,9 @@
-Aplicativo lista de taréfas
+Lista de taréfas
+===============================================
 
-![](https://github.com/jacksonn455/Estatistica/blob/master/tarefas.png)
+--------------------
+- Aplicativo para armazenar as taréfas do dia a dia. Desenvolvido para aprender flutter.
+
+--------------------
+
+![](https://github.com/jacksonn455/calculadora_IMC/blob/master/tarefas.png)
