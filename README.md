@@ -6,4 +6,4 @@ Lista de taréfas
 
 --------------------
 
-![](https://github.com/jacksonn455/calculadora_IMC/blob/master/tarefas.png)
+![](https://github.com/jacksonn455/lista_app/blob/master/tarefas.png)
